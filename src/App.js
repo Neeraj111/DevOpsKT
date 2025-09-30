@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is versoin 1
+          This is versoin 2
         </p>
         <a
           className="App-link"
